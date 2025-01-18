@@ -1,1 +1,1 @@
-# FinancialModel
+Criação da tabela data utilizando a função dax calendar(), Modelagem do tipo star schema visando melhor performace do relatório: Tabela fato: F_Vendas contendo os dados das vendas e outras colunas necessáriias para fazer a ligação com as tabelas dimensões para maiores detalhes sobre as vendas.
